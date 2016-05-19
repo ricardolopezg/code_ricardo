@@ -1,0 +1,29 @@
+body{
+  font-family: Arial;
+  font-size: 18px;
+}
+
+#switch {
+  width: 200px;
+  height: 80px;
+  margin: 0 auto;
+  margin-top: 50px;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: thin gray solid;
+}
+
+
+#panel {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 200px;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: thin gray solid;
+}
